@@ -45,6 +45,10 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(color: AppColors.white),
                   ),
                   children: [
+                    Padding(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Image.asset("assets/images/image1.jpg"),
+                    ),
                     Text(
                       item['author'],
                       style: TextStyle(color: AppColors.black),
