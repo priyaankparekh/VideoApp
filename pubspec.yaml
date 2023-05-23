@@ -22,6 +22,7 @@ dependencies:
   video_player: any
   flick_video_player: 0.4.0
   appinio_video_player: ^1.2.1
+  fluttertoast:
 
 dev_dependencies:
   flutter_test:

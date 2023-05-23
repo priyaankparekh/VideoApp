@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
       (index) => {
             "id": index,
             "title": "Video Title $index",
-            "author": "Author name",
+            "author": "Peter McKinnon",
           });
 
   @override
